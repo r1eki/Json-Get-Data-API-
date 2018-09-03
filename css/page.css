@@ -1,0 +1,28 @@
+.btn--large {
+    height: 54px;
+    line-height: 54px;
+    font-size: 15px;
+    padding: 0 28px;
+}	
+td {
+    border: 1px solid #cfd8dc;
+    text-align: center;
+}
+th {border:1px solid #cfd8dc;}
+	@media only screen and (min-width: 601px){
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    line-height: 1px;
+	height:74px;
+	padding :10px 10px 10px 20px;
+}
+	nav #nav-mobile{
+	line-height: 44px;
+	}
+}	
+.collection .collection-item {
+    border-bottom: 0px;
+}
+nav ul a {
+    padding: 4px 7px;
+	line-height:24px;
+}
